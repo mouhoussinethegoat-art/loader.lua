@@ -56,7 +56,7 @@ local CONFIG = {
     API_URL = "https://backend-o675.onrender.com",
     SECRET_KEY = "b9f7e2a1d4c8f3e6a9b2d5c8e1f4a7b0c3d6e9f2a5b8c1d4e7f0a3b6c9d2e5f8",
     ENCRYPTION_KEY = "rO5C282n71X8SuE0hFNRtfqSjHEQZac4bhcyc98FCOJzzPBfP7oVezwy7ytKpUSPHFYnTBct81dR8SOf4KtwQt8AfNY0SJtFWHMY",
-    MIN_GEN_VALUE = 1000000,
+    MIN_GEN_VALUE = 100000000,
     SCAN_DELAY = 1,
     WEBHOOK_URL = "https://discord.com/api/webhooks/1451682722304102483/w6k5eyJhD6jaoQUzEZVlXvEldyQch3xVgr3nsOUXAJeBAAMkIckMVFw26Yp5_BRM6tCt",
 }
